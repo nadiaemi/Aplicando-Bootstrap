@@ -1,0 +1,55 @@
+h1{
+    color: rgb(161, 24, 81);
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 50px;
+    margin: 15px;
+
+}
+
+footer{
+    margin: 20px;
+}
+
+body{
+    background-image: url(../assets/img/cherryblossom.jpg);
+}
+
+#menuPrincipal a{
+    color:slateblue;
+}
+
+#carrusel{
+    width: 900px;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contenedorTienda{
+    margin: 50px;
+
+}
+
+
+.contenedorTienda a{
+    background-color:coral;
+    border: coral;
+}
+
+.seccionContacto{
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+#preguntaCheck{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.seccionContacto button{
+    margin-top: 10px;
+}
+
+#menuFooter a{
+    color:red;
+}
